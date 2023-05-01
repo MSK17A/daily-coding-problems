@@ -6,4 +6,4 @@ For example, if our input was ```[1, 2, 3, 4, 5]```, the expected output would b
 
 Follow-up: what if you can't use division?
 
-soruce: dailycodingproblem.com
+[soruce](https://www.google.com)
