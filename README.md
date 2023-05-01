@@ -1,3 +1,3 @@
-# Cding Problems with Solutions
+# Coding Problems with Solutions
 
-Problems from dailycodingproblem.com and maybe other soruces.
+Random problems for excercising.
